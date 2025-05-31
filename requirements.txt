@@ -1,0 +1,11 @@
+torch>=2.1
+torchvision>=0.16
+numpy
+pandas
+matplotlib
+opencv-python
+scikit-learn
+tqdm
+scikit-learn
+seaborn
+pyqt5
